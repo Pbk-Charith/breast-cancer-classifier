@@ -10,8 +10,8 @@ The goal of this project is to develop and deploy an end-to-end Machine Learning
 * **Target Attribute**: Diagnosis (0 = Malignant, 1 = Benign)
 
 ## c. GitHub Repository Link
-* **GitHub URL**: `https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>`
-* **Live App URL**: `https://<YOUR_APP_NAME>.streamlit.app`
+* **GitHub URL**: `https://github.com/Pbk-Charith/breast-cancer-classifier`
+* **Live App URL**: `https://pbk-charith-breast-cancer-classifier.streamlit.app/`
 
 ## d. Models Used & Comparison Table
 
